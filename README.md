@@ -10,6 +10,8 @@
   ├── cplex_studio{version}.linux-x86-64.bin
   └── response.properties  
   ```
+  
+  **Obs**.: In the Dockerfile, change the linux installer name according to the version you're using (in my case was 22.1.1)
 
 - Build the image:
   
